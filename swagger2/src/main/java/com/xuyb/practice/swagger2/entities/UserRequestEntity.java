@@ -9,7 +9,7 @@ public class UserRequestEntity {
 	@ApiModelProperty(value="员工工号",example="00123456")
 	private String employeeNumber;
 
-	@ApiModelProperty(value="员工的W3Account账号",example="c00123456")
+	@ApiModelProperty(value="员工的W③Account账号",example="c00123456")
 	private String w3Account;
 	
 	
